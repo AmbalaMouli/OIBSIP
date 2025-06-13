@@ -2,7 +2,7 @@
 # 🌐 OIBSIP Web Development Tasks  
 **By Ambala Mouli**
 
-This repository contains completed web development tasks as part of the **Oasis Infobyte Internship Program**. Each task is developed using **HTML**, **CSS**, and **JavaScript**, with a focus on clean UI, interactivity, and responsive design.
+This repository contains completed web development tasks as part of the **[Oasis Infobyte](https://oasisinfobyte.com/) Internship Program**. Each task is developed using **HTML**, **CSS**, and **JavaScript**, with a focus on clean UI, interactivity, and responsive design.
 
 In this internship I was offered three levels with having 4 tasks respectively. We have to choose only one level. So, I choose to work on the level 2 in which I have to complete the following tasks:
 ---
@@ -55,8 +55,7 @@ There is also a light/dark mode button to look good for the website.
 A simple front-end login system with:
 1. Register, Login, Logout
 2. Change password feature
-3. Dynamic display of input fields
-4.Background image & responsive UI
+3. Dynamic display of input fields and Background image & responsive UI
 
 🔗 [Login Authentication](https://ambalamouli.github.io/OIBSIP/LEVEL2-TASK4-LOGIN%20AUTHENTICATION/)
 📁 `LEVEL2-TASK4-LOGIN AUTHENTICATION/`
