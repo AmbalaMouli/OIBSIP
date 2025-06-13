@@ -56,7 +56,7 @@ A simple front-end login system with:
 
 ## 🧑‍💻 Author
 
-**Shekhar Degala**  
+**Ambala Mouli**  
 [GitHub Profile](https://github.com/AmbalaMouli/OIBSIP)
 
 ---
