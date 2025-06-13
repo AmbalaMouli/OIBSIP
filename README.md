@@ -26,6 +26,7 @@ In this internship I was offered three levels with having 4 tasks respectively. 
 1.With a basic understanding of HTML and CSS, we can easily create a page for someone you admire.
 2.Write about what you adore in the person, add images, give an appealing layout, use paragraphs appropriately.
 3.We can also play around with different font styles and background colors.
+
 🔗 [Tribute Page](https://ambalamouli.github.io/OIBSIP/LEVEL%202%20-%20TASK%202-Tribute%20Page/)
 📁 `LEVEL 2 - TASK 2-Tribute Page/`
 
